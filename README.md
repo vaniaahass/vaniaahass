@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Vania!👋
 
-<!--
-**vaniaahass/vaniaahass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering (RPL) student who is currently diving deep into the world of web development. I love turning lines of code into interactive websites and documenting my journey along the way. 
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 **What I'm doing:** Currently mastering the fundamentals of frontend development.
+* 💻 **Projects:** Building my very first web projects (and breaking things to learn how to fix them!).
+* 🎯 **Goals:** Working towards becoming a professional web developer.
+* 📚 **Belief:** Learning something new every single day, one step at a time. 
+
+### 📈 My Journey
+
+This GitHub profile is my digital notebook. I use it to host my learning progress, personal projects, and all the milestones I achieve as I grow in this tech industry. 
+
+*Learning, building, and growing one commit at a time.* 
